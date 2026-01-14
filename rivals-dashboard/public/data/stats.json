@@ -1,0 +1,1449 @@
+{
+  "squadSummary": {
+    "totalGames": 124,
+    "totalWins": 45,
+    "winRate": 36.3,
+    "totalMvps": 2,
+    "totalSvps": 13,
+    "playerCount": 5
+  },
+  "players": [
+    {
+      "name": "donutpye",
+      "totalGames": 25,
+      "totalWins": 8,
+      "winRate": 32.0,
+      "primaryRole": "strategist",
+      "secondaryRole": "duelist",
+      "roleScores": {
+        "vanguard": 48.0,
+        "duelist": 50.7,
+        "strategist": 54.1
+      },
+      "topHeroes": [
+        {
+          "name": "Squirrel Girl",
+          "role": "duelist",
+          "gamesPlayed": 5,
+          "winRate": 60.0,
+          "kda": 2.96,
+          "performanceScore": 69.2,
+          "avgDamage": 1320.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 611.0,
+          "mvpCount": 0,
+          "svpCount": 1
+        },
+        {
+          "name": "Jeff The Land Shark",
+          "role": "strategist",
+          "gamesPlayed": 4,
+          "winRate": 25.0,
+          "kda": 4.77,
+          "performanceScore": 54.2,
+          "avgDamage": 709.0,
+          "avgHealing": 1040.0,
+          "avgBlocked": 591.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Luna Snow",
+          "role": "strategist",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "kda": 3.46,
+          "performanceScore": 54.0,
+          "avgDamage": 475.0,
+          "avgHealing": 1146.0,
+          "avgBlocked": 725.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Peni Parker",
+          "role": "vanguard",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "kda": 2.45,
+          "performanceScore": 48.0,
+          "avgDamage": 752.0,
+          "avgHealing": 219.0,
+          "avgBlocked": 1734.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Scarlet Witch",
+          "role": "duelist",
+          "gamesPlayed": 4,
+          "winRate": 0.0,
+          "kda": 1.96,
+          "performanceScore": 32.2,
+          "avgDamage": 1019.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 886.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        }
+      ],
+      "heroBreakdown": {
+        "vanguard": [
+          {
+            "name": "Peni Parker",
+            "gamesPlayed": 5,
+            "winRate": 40.0,
+            "kda": 2.45,
+            "performanceScore": 48.0
+          }
+        ],
+        "duelist": [
+          {
+            "name": "Squirrel Girl",
+            "gamesPlayed": 5,
+            "winRate": 60.0,
+            "kda": 2.96,
+            "performanceScore": 69.2
+          },
+          {
+            "name": "Scarlet Witch",
+            "gamesPlayed": 4,
+            "winRate": 0.0,
+            "kda": 1.96,
+            "performanceScore": 32.2
+          },
+          {
+            "name": "Emma Frost",
+            "gamesPlayed": 2,
+            "winRate": 0.0,
+            "kda": 1.64,
+            "performanceScore": 28.4
+          }
+        ],
+        "strategist": [
+          {
+            "name": "Jeff The Land Shark",
+            "gamesPlayed": 4,
+            "winRate": 25.0,
+            "kda": 4.77,
+            "performanceScore": 54.2
+          },
+          {
+            "name": "Luna Snow",
+            "gamesPlayed": 5,
+            "winRate": 40.0,
+            "kda": 3.46,
+            "performanceScore": 54.0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tjeezy6",
+      "totalGames": 25,
+      "totalWins": 11,
+      "winRate": 44.0,
+      "primaryRole": "strategist",
+      "secondaryRole": "duelist",
+      "roleScores": {
+        "vanguard": 0,
+        "duelist": 51.9,
+        "strategist": 68.4
+      },
+      "topHeroes": [
+        {
+          "name": "Jeff The Land Shark",
+          "role": "strategist",
+          "gamesPlayed": 7,
+          "winRate": 42.9,
+          "kda": 5.14,
+          "performanceScore": 68.4,
+          "avgDamage": 648.0,
+          "avgHealing": 1416.0,
+          "avgBlocked": 418.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Moon Knight",
+          "role": "duelist",
+          "gamesPlayed": 17,
+          "winRate": 41.2,
+          "kda": 1.92,
+          "performanceScore": 51.9,
+          "avgDamage": 1182.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 605.0,
+          "mvpCount": 0,
+          "svpCount": 1
+        }
+      ],
+      "heroBreakdown": {
+        "vanguard": [],
+        "duelist": [
+          {
+            "name": "Iron Man",
+            "gamesPlayed": 1,
+            "winRate": 100.0,
+            "kda": 9.0,
+            "performanceScore": 93.5
+          },
+          {
+            "name": "Moon Knight",
+            "gamesPlayed": 17,
+            "winRate": 41.2,
+            "kda": 1.92,
+            "performanceScore": 51.9
+          }
+        ],
+        "strategist": [
+          {
+            "name": "Jeff The Land Shark",
+            "gamesPlayed": 7,
+            "winRate": 42.9,
+            "kda": 5.14,
+            "performanceScore": 68.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aigos",
+      "totalGames": 25,
+      "totalWins": 9,
+      "winRate": 36.0,
+      "primaryRole": "vanguard",
+      "secondaryRole": "duelist",
+      "roleScores": {
+        "vanguard": 71.2,
+        "duelist": 54.2,
+        "strategist": 0
+      },
+      "topHeroes": [
+        {
+          "name": "Bruce Banner",
+          "role": "vanguard",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "kda": 6.25,
+          "performanceScore": 72.0,
+          "avgDamage": 897.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 2196.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Peni Parker",
+          "role": "vanguard",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "kda": 8.0,
+          "performanceScore": 70.4,
+          "avgDamage": 1021.0,
+          "avgHealing": 228.0,
+          "avgBlocked": 2039.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Winter Soldier",
+          "role": "duelist",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "kda": 2.72,
+          "performanceScore": 60.3,
+          "avgDamage": 1448.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 1137.0,
+          "mvpCount": 0,
+          "svpCount": 1
+        },
+        {
+          "name": "Thor",
+          "role": "vanguard",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "kda": 3.17,
+          "performanceScore": 55.1,
+          "avgDamage": 1024.0,
+          "avgHealing": 6.0,
+          "avgBlocked": 1946.0,
+          "mvpCount": 1,
+          "svpCount": 1
+        },
+        {
+          "name": "Magneto",
+          "role": "vanguard",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "kda": 2.27,
+          "performanceScore": 54.0,
+          "avgDamage": 1462.0,
+          "avgHealing": 50.0,
+          "avgBlocked": 2040.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        }
+      ],
+      "heroBreakdown": {
+        "vanguard": [
+          {
+            "name": "Bruce Banner",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 6.25,
+            "performanceScore": 72.0
+          },
+          {
+            "name": "Peni Parker",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 8.0,
+            "performanceScore": 70.4
+          },
+          {
+            "name": "Thor",
+            "gamesPlayed": 3,
+            "winRate": 33.3,
+            "kda": 3.17,
+            "performanceScore": 55.1
+          },
+          {
+            "name": "Magneto",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 2.27,
+            "performanceScore": 54.0
+          },
+          {
+            "name": "Doctor Strange",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 2.31,
+            "performanceScore": 53.0
+          },
+          {
+            "name": "Groot",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 0.62,
+            "performanceScore": 33.8
+          }
+        ],
+        "duelist": [
+          {
+            "name": "Moon Knight",
+            "gamesPlayed": 1,
+            "winRate": 100.0,
+            "kda": 3.2,
+            "performanceScore": 79.7
+          },
+          {
+            "name": "Winter Soldier",
+            "gamesPlayed": 3,
+            "winRate": 33.3,
+            "kda": 2.72,
+            "performanceScore": 60.3
+          },
+          {
+            "name": "The Punisher",
+            "gamesPlayed": 5,
+            "winRate": 20.0,
+            "kda": 2.06,
+            "performanceScore": 48.2
+          },
+          {
+            "name": "Spider-Man",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 1.92,
+            "performanceScore": 27.8
+          }
+        ],
+        "strategist": [
+          {
+            "name": "Loki",
+            "gamesPlayed": 1,
+            "winRate": 100.0,
+            "kda": 12.5,
+            "performanceScore": 88.9
+          },
+          {
+            "name": "Cloak & Dagger",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 5.8,
+            "performanceScore": 65.0
+          },
+          {
+            "name": "Invisible Woman",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 3.8,
+            "performanceScore": 52.8
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sir Lippulus",
+      "totalGames": 24,
+      "totalWins": 9,
+      "winRate": 37.5,
+      "primaryRole": "duelist",
+      "secondaryRole": "strategist",
+      "roleScores": {
+        "vanguard": 57.1,
+        "duelist": 78.4,
+        "strategist": 67.4
+      },
+      "topHeroes": [
+        {
+          "name": "Namor",
+          "role": "duelist",
+          "gamesPlayed": 3,
+          "winRate": 66.7,
+          "kda": 4.5,
+          "performanceScore": 78.4,
+          "avgDamage": 1237.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 590.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Invisible Woman",
+          "role": "strategist",
+          "gamesPlayed": 6,
+          "winRate": 33.3,
+          "kda": 4.89,
+          "performanceScore": 67.4,
+          "avgDamage": 600.0,
+          "avgHealing": 1534.0,
+          "avgBlocked": 829.0,
+          "mvpCount": 0,
+          "svpCount": 2
+        },
+        {
+          "name": "Peni Parker",
+          "role": "vanguard",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "kda": 3.44,
+          "performanceScore": 57.9,
+          "avgDamage": 890.0,
+          "avgHealing": 99.0,
+          "avgBlocked": 1728.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "The Thing",
+          "role": "vanguard",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "kda": 2.83,
+          "performanceScore": 56.2,
+          "avgDamage": 1139.0,
+          "avgHealing": 26.0,
+          "avgBlocked": 2320.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Magneto",
+          "role": "vanguard",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "kda": 2.38,
+          "performanceScore": 47.5,
+          "avgDamage": 966.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 1724.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        }
+      ],
+      "heroBreakdown": {
+        "vanguard": [
+          {
+            "name": "Peni Parker",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 3.44,
+            "performanceScore": 57.9
+          },
+          {
+            "name": "The Thing",
+            "gamesPlayed": 5,
+            "winRate": 40.0,
+            "kda": 2.83,
+            "performanceScore": 56.2
+          },
+          {
+            "name": "Magneto",
+            "gamesPlayed": 5,
+            "winRate": 40.0,
+            "kda": 2.38,
+            "performanceScore": 47.5
+          },
+          {
+            "name": "Angela",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 1.71,
+            "performanceScore": 32.8
+          },
+          {
+            "name": "Bruce Banner",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 0.0,
+            "performanceScore": 16.9
+          }
+        ],
+        "duelist": [
+          {
+            "name": "Namor",
+            "gamesPlayed": 3,
+            "winRate": 66.7,
+            "kda": 4.5,
+            "performanceScore": 78.4
+          }
+        ],
+        "strategist": [
+          {
+            "name": "Invisible Woman",
+            "gamesPlayed": 6,
+            "winRate": 33.3,
+            "kda": 4.89,
+            "performanceScore": 67.4
+          },
+          {
+            "name": "Mantis",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 4.33,
+            "performanceScore": 50.7
+          }
+        ]
+      }
+    },
+    {
+      "name": "LilFartinMarti",
+      "totalGames": 25,
+      "totalWins": 8,
+      "winRate": 32.0,
+      "primaryRole": "strategist",
+      "secondaryRole": "duelist",
+      "roleScores": {
+        "vanguard": 46.6,
+        "duelist": 51.1,
+        "strategist": 78.3
+      },
+      "topHeroes": [
+        {
+          "name": "Cloak & Dagger",
+          "role": "strategist",
+          "gamesPlayed": 9,
+          "winRate": 44.4,
+          "kda": 7.29,
+          "performanceScore": 78.3,
+          "avgDamage": 575.0,
+          "avgHealing": 2345.0,
+          "avgBlocked": 664.0,
+          "mvpCount": 0,
+          "svpCount": 1
+        },
+        {
+          "name": "Phoenix",
+          "role": "duelist",
+          "gamesPlayed": 5,
+          "winRate": 20.0,
+          "kda": 2.37,
+          "performanceScore": 52.4,
+          "avgDamage": 1411.0,
+          "avgHealing": 56.0,
+          "avgBlocked": 605.0,
+          "mvpCount": 0,
+          "svpCount": 2
+        },
+        {
+          "name": "Angela",
+          "role": "vanguard",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "kda": 2.69,
+          "performanceScore": 51.4,
+          "avgDamage": 616.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 1522.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        },
+        {
+          "name": "Hela",
+          "role": "duelist",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "kda": 2.62,
+          "performanceScore": 49.8,
+          "avgDamage": 954.0,
+          "avgHealing": 0.0,
+          "avgBlocked": 717.0,
+          "mvpCount": 1,
+          "svpCount": 0
+        },
+        {
+          "name": "Groot",
+          "role": "vanguard",
+          "gamesPlayed": 4,
+          "winRate": 0.0,
+          "kda": 1.96,
+          "performanceScore": 41.8,
+          "avgDamage": 960.0,
+          "avgHealing": 1.0,
+          "avgBlocked": 3108.0,
+          "mvpCount": 0,
+          "svpCount": 0
+        }
+      ],
+      "heroBreakdown": {
+        "vanguard": [
+          {
+            "name": "Angela",
+            "gamesPlayed": 2,
+            "winRate": 50.0,
+            "kda": 2.69,
+            "performanceScore": 51.4
+          },
+          {
+            "name": "Magneto",
+            "gamesPlayed": 1,
+            "winRate": 0.0,
+            "kda": 3.17,
+            "performanceScore": 42.1
+          },
+          {
+            "name": "Groot",
+            "gamesPlayed": 4,
+            "winRate": 0.0,
+            "kda": 1.96,
+            "performanceScore": 41.8
+          }
+        ],
+        "duelist": [
+          {
+            "name": "Emma Frost",
+            "gamesPlayed": 1,
+            "winRate": 100.0,
+            "kda": 3.5,
+            "performanceScore": 78.8
+          },
+          {
+            "name": "Phoenix",
+            "gamesPlayed": 5,
+            "winRate": 20.0,
+            "kda": 2.37,
+            "performanceScore": 52.4
+          },
+          {
+            "name": "Hela",
+            "gamesPlayed": 3,
+            "winRate": 33.3,
+            "kda": 2.62,
+            "performanceScore": 49.8
+          }
+        ],
+        "strategist": [
+          {
+            "name": "Cloak & Dagger",
+            "gamesPlayed": 9,
+            "winRate": 44.4,
+            "kda": 7.29,
+            "performanceScore": 78.3
+          }
+        ]
+      }
+    }
+  ],
+  "compositions": [
+    {
+      "score": 366.3,
+      "assignments": [
+        {
+          "player": "Aigos",
+          "hero": "Bruce Banner",
+          "role": "vanguard"
+        },
+        {
+          "player": "donutpye",
+          "hero": "Squirrel Girl",
+          "role": "duelist"
+        },
+        {
+          "player": "Sir Lippulus",
+          "hero": "Namor",
+          "role": "duelist"
+        },
+        {
+          "player": "Tjeezy6",
+          "hero": "Jeff The Land Shark",
+          "role": "strategist"
+        },
+        {
+          "player": "LilFartinMarti",
+          "hero": "Cloak & Dagger",
+          "role": "strategist"
+        }
+      ]
+    },
+    {
+      "score": 349.8,
+      "assignments": [
+        {
+          "player": "Aigos",
+          "hero": "Bruce Banner",
+          "role": "vanguard"
+        },
+        {
+          "player": "donutpye",
+          "hero": "Squirrel Girl",
+          "role": "duelist"
+        },
+        {
+          "player": "Tjeezy6",
+          "hero": "Moon Knight",
+          "role": "duelist"
+        },
+        {
+          "player": "Sir Lippulus",
+          "hero": "Namor",
+          "role": "duelist"
+        },
+        {
+          "player": "LilFartinMarti",
+          "hero": "Cloak & Dagger",
+          "role": "strategist"
+        }
+      ]
+    },
+    {
+      "score": 345.8,
+      "assignments": [
+        {
+          "player": "Aigos",
+          "hero": "Bruce Banner",
+          "role": "vanguard"
+        },
+        {
+          "player": "Sir Lippulus",
+          "hero": "Peni Parker",
+          "role": "vanguard"
+        },
+        {
+          "player": "donutpye",
+          "hero": "Squirrel Girl",
+          "role": "duelist"
+        },
+        {
+          "player": "Tjeezy6",
+          "hero": "Jeff The Land Shark",
+          "role": "strategist"
+        },
+        {
+          "player": "LilFartinMarti",
+          "hero": "Cloak & Dagger",
+          "role": "strategist"
+        }
+      ]
+    },
+    {
+      "score": 345.8,
+      "assignments": [
+        {
+          "player": "Aigos",
+          "hero": "Bruce Banner",
+          "role": "vanguard"
+        },
+        {
+          "player": "Sir Lippulus",
+          "hero": "Peni Parker",
+          "role": "vanguard"
+        },
+        {
+          "player": "donutpye",
+          "hero": "Squirrel Girl",
+          "role": "duelist"
+        },
+        {
+          "player": "Tjeezy6",
+          "hero": "Jeff The Land Shark",
+          "role": "strategist"
+        },
+        {
+          "player": "LilFartinMarti",
+          "hero": "Cloak & Dagger",
+          "role": "strategist"
+        }
+      ]
+    },
+    {
+      "score": 345.1,
+      "assignments": [
+        {
+          "player": "donutpye",
+          "hero": "Peni Parker",
+          "role": "vanguard"
+        },
+        {
+          "player": "Aigos",
+          "hero": "Bruce Banner",
+          "role": "vanguard"
+        },
+        {
+          "player": "Sir Lippulus",
+          "hero": "Namor",
+          "role": "duelist"
+        },
+        {
+          "player": "Tjeezy6",
+          "hero": "Jeff The Land Shark",
+          "role": "strategist"
+        },
+        {
+          "player": "LilFartinMarti",
+          "hero": "Cloak & Dagger",
+          "role": "strategist"
+        }
+      ]
+    }
+  ],
+  "heroStats": [
+    {
+      "name": "Moon Knight",
+      "role": "duelist",
+      "totalGames": 18,
+      "totalWins": 8,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 100.0,
+          "performanceScore": 79.7
+        },
+        {
+          "name": "Tjeezy6",
+          "gamesPlayed": 17,
+          "winRate": 41.2,
+          "performanceScore": 51.9
+        }
+      ],
+      "winRate": 44.4
+    },
+    {
+      "name": "Jeff The Land Shark",
+      "role": "strategist",
+      "totalGames": 11,
+      "totalWins": 4,
+      "players": [
+        {
+          "name": "Tjeezy6",
+          "gamesPlayed": 7,
+          "winRate": 42.9,
+          "performanceScore": 68.4
+        },
+        {
+          "name": "donutpye",
+          "gamesPlayed": 4,
+          "winRate": 25.0,
+          "performanceScore": 54.2
+        }
+      ],
+      "winRate": 36.4
+    },
+    {
+      "name": "Cloak & Dagger",
+      "role": "strategist",
+      "totalGames": 10,
+      "totalWins": 4,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 9,
+          "winRate": 44.4,
+          "performanceScore": 78.3
+        },
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 65.0
+        }
+      ],
+      "winRate": 40.0
+    },
+    {
+      "name": "Peni Parker",
+      "role": "vanguard",
+      "totalGames": 9,
+      "totalWins": 4,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 70.4
+        },
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 57.9
+        },
+        {
+          "name": "donutpye",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "performanceScore": 48.0
+        }
+      ],
+      "winRate": 44.4
+    },
+    {
+      "name": "Magneto",
+      "role": "vanguard",
+      "totalGames": 8,
+      "totalWins": 3,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 54.0
+        },
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "performanceScore": 47.5
+        },
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 42.1
+        }
+      ],
+      "winRate": 37.5
+    },
+    {
+      "name": "Invisible Woman",
+      "role": "strategist",
+      "totalGames": 7,
+      "totalWins": 2,
+      "players": [
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 6,
+          "winRate": 33.3,
+          "performanceScore": 67.4
+        },
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 52.8
+        }
+      ],
+      "winRate": 28.6
+    },
+    {
+      "name": "Squirrel Girl",
+      "role": "duelist",
+      "totalGames": 5,
+      "totalWins": 3,
+      "players": [
+        {
+          "name": "donutpye",
+          "gamesPlayed": 5,
+          "winRate": 60.0,
+          "performanceScore": 69.2
+        }
+      ],
+      "winRate": 60.0
+    },
+    {
+      "name": "Luna Snow",
+      "role": "strategist",
+      "totalGames": 5,
+      "totalWins": 2,
+      "players": [
+        {
+          "name": "donutpye",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "performanceScore": 54.0
+        }
+      ],
+      "winRate": 40.0
+    },
+    {
+      "name": "The Punisher",
+      "role": "duelist",
+      "totalGames": 5,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 5,
+          "winRate": 20.0,
+          "performanceScore": 48.2
+        }
+      ],
+      "winRate": 20.0
+    },
+    {
+      "name": "Groot",
+      "role": "vanguard",
+      "totalGames": 5,
+      "totalWins": 0,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 4,
+          "winRate": 0.0,
+          "performanceScore": 41.8
+        },
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 33.8
+        }
+      ],
+      "winRate": 0.0
+    },
+    {
+      "name": "The Thing",
+      "role": "vanguard",
+      "totalGames": 5,
+      "totalWins": 2,
+      "players": [
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 5,
+          "winRate": 40.0,
+          "performanceScore": 56.2
+        }
+      ],
+      "winRate": 40.0
+    },
+    {
+      "name": "Phoenix",
+      "role": "duelist",
+      "totalGames": 5,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 5,
+          "winRate": 20.0,
+          "performanceScore": 52.4
+        }
+      ],
+      "winRate": 20.0
+    },
+    {
+      "name": "Scarlet Witch",
+      "role": "duelist",
+      "totalGames": 4,
+      "totalWins": 0,
+      "players": [
+        {
+          "name": "donutpye",
+          "gamesPlayed": 4,
+          "winRate": 0.0,
+          "performanceScore": 32.2
+        }
+      ],
+      "winRate": 0.0
+    },
+    {
+      "name": "Emma Frost",
+      "role": "duelist",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 1,
+          "winRate": 100.0,
+          "performanceScore": 78.8
+        },
+        {
+          "name": "donutpye",
+          "gamesPlayed": 2,
+          "winRate": 0.0,
+          "performanceScore": 28.4
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Bruce Banner",
+      "role": "vanguard",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 72.0
+        },
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 16.9
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Thor",
+      "role": "vanguard",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "performanceScore": 55.1
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Winter Soldier",
+      "role": "duelist",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "performanceScore": 60.3
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Namor",
+      "role": "duelist",
+      "totalGames": 3,
+      "totalWins": 2,
+      "players": [
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 3,
+          "winRate": 66.7,
+          "performanceScore": 78.4
+        }
+      ],
+      "winRate": 66.7
+    },
+    {
+      "name": "Angela",
+      "role": "vanguard",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 51.4
+        },
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 32.8
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Hela",
+      "role": "duelist",
+      "totalGames": 3,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "LilFartinMarti",
+          "gamesPlayed": 3,
+          "winRate": 33.3,
+          "performanceScore": 49.8
+        }
+      ],
+      "winRate": 33.3
+    },
+    {
+      "name": "Doctor Strange",
+      "role": "vanguard",
+      "totalGames": 2,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 2,
+          "winRate": 50.0,
+          "performanceScore": 53.0
+        }
+      ],
+      "winRate": 50.0
+    },
+    {
+      "name": "Iron Man",
+      "role": "duelist",
+      "totalGames": 1,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Tjeezy6",
+          "gamesPlayed": 1,
+          "winRate": 100.0,
+          "performanceScore": 93.5
+        }
+      ],
+      "winRate": 100.0
+    },
+    {
+      "name": "Loki",
+      "role": "strategist",
+      "totalGames": 1,
+      "totalWins": 1,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 100.0,
+          "performanceScore": 88.9
+        }
+      ],
+      "winRate": 100.0
+    },
+    {
+      "name": "Spider-Man",
+      "role": "duelist",
+      "totalGames": 1,
+      "totalWins": 0,
+      "players": [
+        {
+          "name": "Aigos",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 27.8
+        }
+      ],
+      "winRate": 0.0
+    },
+    {
+      "name": "Mantis",
+      "role": "strategist",
+      "totalGames": 1,
+      "totalWins": 0,
+      "players": [
+        {
+          "name": "Sir Lippulus",
+          "gamesPlayed": 1,
+          "winRate": 0.0,
+          "performanceScore": 50.7
+        }
+      ],
+      "winRate": 0.0
+    }
+  ],
+  "roleCoverage": {
+    "vanguard": {
+      "count": 4,
+      "players": [
+        "donutpye",
+        "Aigos",
+        "Sir Lippulus",
+        "LilFartinMarti"
+      ]
+    },
+    "duelist": {
+      "count": 5,
+      "players": [
+        "donutpye",
+        "Tjeezy6",
+        "Aigos",
+        "Sir Lippulus",
+        "LilFartinMarti"
+      ]
+    },
+    "strategist": {
+      "count": 4,
+      "players": [
+        "donutpye",
+        "Tjeezy6",
+        "Sir Lippulus",
+        "LilFartinMarti"
+      ]
+    }
+  },
+  "leaderboard": {
+    "winRate": [
+      {
+        "name": "Tjeezy6",
+        "value": 44.0,
+        "games": 25
+      },
+      {
+        "name": "Sir Lippulus",
+        "value": 37.5,
+        "games": 24
+      },
+      {
+        "name": "Aigos",
+        "value": 36.0,
+        "games": 25
+      },
+      {
+        "name": "donutpye",
+        "value": 32.0,
+        "games": 25
+      },
+      {
+        "name": "LilFartinMarti",
+        "value": 32.0,
+        "games": 25
+      }
+    ],
+    "kda": [
+      {
+        "name": "LilFartinMarti",
+        "value": 3.77,
+        "kills": 299,
+        "deaths": 129,
+        "assists": 187
+      },
+      {
+        "name": "Sir Lippulus",
+        "value": 3.41,
+        "kills": 300,
+        "deaths": 138,
+        "assists": 170
+      },
+      {
+        "name": "donutpye",
+        "value": 3.1,
+        "kills": 298,
+        "deaths": 155,
+        "assists": 182
+      },
+      {
+        "name": "Aigos",
+        "value": 2.88,
+        "kills": 301,
+        "deaths": 138,
+        "assists": 96
+      },
+      {
+        "name": "Tjeezy6",
+        "value": 2.8,
+        "kills": 308,
+        "deaths": 152,
+        "assists": 118
+      }
+    ],
+    "damage": [
+      {
+        "name": "Aigos",
+        "value": 1059.0,
+        "total": 223893.0
+      },
+      {
+        "name": "Tjeezy6",
+        "value": 1029.0,
+        "total": 215289.0
+      },
+      {
+        "name": "Sir Lippulus",
+        "value": 901.0,
+        "total": 184224.0
+      },
+      {
+        "name": "LilFartinMarti",
+        "value": 887.0,
+        "total": 189089.0
+      },
+      {
+        "name": "donutpye",
+        "value": 863.0,
+        "total": 184552.0
+      }
+    ],
+    "healing": [
+      {
+        "name": "LilFartinMarti",
+        "value": 852.0,
+        "total": 181548.0
+      },
+      {
+        "name": "Sir Lippulus",
+        "value": 512.0,
+        "total": 104719.0
+      },
+      {
+        "name": "donutpye",
+        "value": 466.0,
+        "total": 99600.0
+      },
+      {
+        "name": "Tjeezy6",
+        "value": 404.0,
+        "total": 84575.0
+      },
+      {
+        "name": "Aigos",
+        "value": 274.0,
+        "total": 57890.0
+      }
+    ],
+    "blocked": [
+      {
+        "name": "Sir Lippulus",
+        "value": 1440.0,
+        "total": 294217.0
+      },
+      {
+        "name": "Aigos",
+        "value": 1419.0,
+        "total": 300154.0
+      },
+      {
+        "name": "LilFartinMarti",
+        "value": 1239.0,
+        "total": 263951.0
+      },
+      {
+        "name": "donutpye",
+        "value": 987.0,
+        "total": 210977.0
+      },
+      {
+        "name": "Tjeezy6",
+        "value": 539.0,
+        "total": 112830.0
+      }
+    ]
+  }
+}
